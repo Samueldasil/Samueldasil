@@ -1,6 +1,6 @@
 # **Samuel Costa Braga**
 
-Recém-formado em Análise e Desenvolvimento de Sistemas, estou focado em aprimorar minhas habilidades e práticas em desenvolvimento.
+Olá! Sou Samuel Costa Braga, profissional em início de carreira, graduado em Análise e Desenvolvimento de Sistemas. Tenho experiência prática em Java, SQL, Python e JavaScript, e estou animado para aplicar e expandir meus conhecimentos em projetos inovadores.
 
 ## **Linguagens e Ferramentas**
 
